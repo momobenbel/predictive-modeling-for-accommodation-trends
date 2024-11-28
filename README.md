@@ -1,1 +1,1 @@
-# predictive-modeling-for-accommodation-trends
+# Predictive Modeling for One-Night Accommodation Trends
